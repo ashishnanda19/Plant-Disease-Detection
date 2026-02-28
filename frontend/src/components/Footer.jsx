@@ -15,13 +15,13 @@ export function Footer() {
                 </div>
 
                 <div className="flex gap-6">
-                    <a href="https://github.com/Arjun00356/Plant-Disease-Detection" className="text-slate-400 hover:text-white transition-colors">
+                    <a href="https://github.com/ashishnanda19/Plant-Disease-Detection" className="text-slate-400 hover:text-white transition-colors">
                         <Github size={20} />
                     </a>
-                    {/* <a href="https://www.linkedin.com/in/kushagragupta08/" className="text-slate-400 hover:text-white transition-colors">
+                    <a href="https://www.linkedin.com/in/ashishnanda19/" className="text-slate-400 hover:text-white transition-colors">
                         <Linkedin size={20} />
-                    </a> */}
-                    <a href="mailto:arjunmishra@gmail.com" className="text-slate-400 hover:text-white transition-colors">
+                    </a>
+                    <a href="mailto:ashish.nanda1902@gmail.com" className="text-slate-400 hover:text-white transition-colors">
                         <Mail size={20} />
                     </a>
                 </div>

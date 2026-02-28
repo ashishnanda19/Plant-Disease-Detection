@@ -53,7 +53,7 @@ export function Hero() {
                         <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
                     </a>
                     <a
-                        href="https://github.com/Arjun00356/Plant-Disease-Detection/blob/main/plant_disease.py"
+                        href="https://github.com/ashishnanda19/Plant-Disease-Detection/blob/main/plant_disease.py"
                         className="inline-flex items-center justify-center gap-2 px-8 py-3 rounded-xl bg-slate-800 hover:bg-slate-700 text-white font-medium transition-colors border border-slate-700 hover:border-slate-600"
                     >
                         Explore Methodology
